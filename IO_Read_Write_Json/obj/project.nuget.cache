@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Ilergn1WpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\IO_Read_Write_Json\\IO_Read_Write_Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyego.lima\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

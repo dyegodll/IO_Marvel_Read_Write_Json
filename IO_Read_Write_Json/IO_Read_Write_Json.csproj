@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersonagemServices\IO_Read_Write_Json.Services.csproj" />
+    <ProjectReference Include="..\PersonagensMarvel\IO_Read_Write_Json.Models.csproj" />
+  </ItemGroup>
+
+</Project>

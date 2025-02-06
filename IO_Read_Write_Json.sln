@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO_Read_Write_Json", "IO_Read_Write_Json\IO_Read_Write_Json.csproj", "{65EB6D26-1682-43A4-9CAA-3D81462A1061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO_Read_Write_Json.Models", "PersonagensMarvel\IO_Read_Write_Json.Models.csproj", "{40F02F44-2727-4567-8E2F-63270A5C738D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO_Read_Write_Json.Services", "PersonagemServices\IO_Read_Write_Json.Services.csproj", "{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EB6D26-1682-43A4-9CAA-3D81462A1061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EB6D26-1682-43A4-9CAA-3D81462A1061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EB6D26-1682-43A4-9CAA-3D81462A1061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EB6D26-1682-43A4-9CAA-3D81462A1061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F02F44-2727-4567-8E2F-63270A5C738D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F02F44-2727-4567-8E2F-63270A5C738D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F02F44-2727-4567-8E2F-63270A5C738D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F02F44-2727-4567-8E2F-63270A5C738D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

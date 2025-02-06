@@ -1,0 +1,50 @@
+1	Spider-Man	Peter Parker	Vingadores
+2	Iron Man	Tony Stark	Vingadores
+3	Captain America	Steve Rogers	Vingadores
+4	Thor	Thor Odinson	Vingadores
+5	Hulk	Bruce Banner	Vingadores
+6	Black Widow	Natasha Romanoff	Vingadores
+7	Hawkeye	Clint Barton	Vingadores
+8	Doctor Strange	Stephen Strange	Defensores
+9	Black Panther	T’Challa	Vingadores
+10	Scarlet Witch	Wanda Maximoff	Vingadores
+11	Vision	Visão	Vingadores
+12	Ant-Man	Scott Lang	Vingadores
+13	Wasp	Hope Van Dyne	Vingadores
+14	Wolverine	Logan	X-Men
+15	Cyclops	Scott Summers	X-Men
+16	Storm	Ororo Munroe	X-Men
+17	Jean Grey	Jean Grey	X-Men
+18	Beast	Hank McCoy	X-Men
+19	Rogue	Anna Marie	X-Men
+20	Gambit	Remy LeBeau	X-Men
+21	Nightcrawler	Kurt Wagner	X-Men
+22	Colossus	Piotr Rasputin	X-Men
+23	Deadpool	Wade Wilson	Independente
+24	Daredevil	Matt Murdock	Defensores
+25	Luke Cage	Carl Lucas	Defensores
+26	Iron Fist	Danny Rand	Defensores
+27	The Punisher	Frank Castle	Independente
+28	Silver Surfer	Norrin Radd	Independente
+29	Ghost Rider	Johnny Blaze	Independente
+30	Captain Marvel	Carol Danvers	Vingadores
+31	Ms. Marvel	Kamala Khan	Jovens Vingadores
+32	She-Hulk	Jennifer Walters	Vingadores
+33	Moon Knight	Marc Spector	Independente
+34	Nova	Richard Rider	Nova Corps
+35	Star-Lord	Peter Quill	Guardiões da Galáxia
+36	Gamora	Gamora Zen Whoberi	Guardiões da Galáxia
+37	Drax	Drax o Destruidor	Guardiões da Galáxia
+38	Rocket Raccoon	Rocket	Guardiões da Galáxia
+39	Groot	Groot	Guardiões da Galáxia
+40	Adam Warlock	Adam Warlock	Guardiões da Galáxia
+41	Magneto	Erik Lehnsherr	Irmandade dos Mutantes
+42	Loki	Loki Laufeyson	Independente
+43	Venom	Eddie Brock	Independente
+44	Green Goblin	Norman Osborn	Independente
+45	Red Skull	Johann Schmidt	Hidra
+46	Ultron	Ultron	Independente
+47	Thanos	Thanos	Independente
+48	Galactus	Galan	Independente
+49	Kang	Nathaniel Richards	Independente
+50	Doctor Doom	Victor Von Doom	Independente

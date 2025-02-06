@@ -1,0 +1,15 @@
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\bin\Debug\net8.0\IO_Read_Write_Json.Services.deps.json
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\bin\Debug\net8.0\IO_Read_Write_Json.Services.dll
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\bin\Debug\net8.0\IO_Read_Write_Json.Services.pdb
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\bin\Debug\net8.0\IO_Read_Write_Json.Models.dll
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\bin\Debug\net8.0\IO_Read_Write_Json.Models.pdb
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.csproj.AssemblyReference.cache
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_.51FF87AB.Up2Date
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.dll
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\refint\IO_Read_Write_Json.Services.dll
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.pdb
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\ref\IO_Read_Write_Json.Services.dll

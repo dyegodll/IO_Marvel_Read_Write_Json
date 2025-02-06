@@ -1,0 +1,302 @@
+﻿[
+  {
+    "Id": 1,
+    "Nome": "Spider-Man",
+    "AlterEgo": "Peter Parker",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 2,
+    "Nome": "Iron Man",
+    "AlterEgo": "Tony Stark",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 3,
+    "Nome": "Captain America",
+    "AlterEgo": "Steve Rogers",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 4,
+    "Nome": "Thor",
+    "AlterEgo": "Thor Odinson",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 5,
+    "Nome": "Hulk",
+    "AlterEgo": "Bruce Banner",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 6,
+    "Nome": "Black Widow",
+    "AlterEgo": "Natasha Romanoff",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 7,
+    "Nome": "Hawkeye",
+    "AlterEgo": "Clint Barton",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 8,
+    "Nome": "Doctor Strange",
+    "AlterEgo": "Stephen Strange",
+    "Time": "Defensores"
+  },
+  {
+    "Id": 9,
+    "Nome": "Black Panther",
+    "AlterEgo": "T’Challa",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 10,
+    "Nome": "Scarlet Witch",
+    "AlterEgo": "Wanda Maximoff",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 11,
+    "Nome": "Vision",
+    "AlterEgo": "Visão",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 12,
+    "Nome": "Ant-Man",
+    "AlterEgo": "Scott Lang",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 13,
+    "Nome": "Wasp",
+    "AlterEgo": "Hope Van Dyne",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 14,
+    "Nome": "Wolverine",
+    "AlterEgo": "Logan",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 15,
+    "Nome": "Cyclops",
+    "AlterEgo": "Scott Summers",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 16,
+    "Nome": "Storm",
+    "AlterEgo": "Ororo Munroe",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 17,
+    "Nome": "Jean Grey",
+    "AlterEgo": "Jean Grey",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 18,
+    "Nome": "Beast",
+    "AlterEgo": "Hank McCoy",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 19,
+    "Nome": "Rogue",
+    "AlterEgo": "Anna Marie",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 20,
+    "Nome": "Gambit",
+    "AlterEgo": "Remy LeBeau",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 21,
+    "Nome": "Nightcrawler",
+    "AlterEgo": "Kurt Wagner",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 22,
+    "Nome": "Colossus",
+    "AlterEgo": "Piotr Rasputin",
+    "Time": "X-Men"
+  },
+  {
+    "Id": 23,
+    "Nome": "Deadpool",
+    "AlterEgo": "Wade Wilson",
+    "Time": "Independente"
+  },
+  {
+    "Id": 24,
+    "Nome": "Daredevil",
+    "AlterEgo": "Matt Murdock",
+    "Time": "Defensores"
+  },
+  {
+    "Id": 25,
+    "Nome": "Luke Cage",
+    "AlterEgo": "Carl Lucas",
+    "Time": "Defensores"
+  },
+  {
+    "Id": 26,
+    "Nome": "Iron Fist",
+    "AlterEgo": "Danny Rand",
+    "Time": "Defensores"
+  },
+  {
+    "Id": 27,
+    "Nome": "The Punisher",
+    "AlterEgo": "Frank Castle",
+    "Time": "Independente"
+  },
+  {
+    "Id": 28,
+    "Nome": "Silver Surfer",
+    "AlterEgo": "Norrin Radd",
+    "Time": "Independente"
+  },
+  {
+    "Id": 29,
+    "Nome": "Ghost Rider",
+    "AlterEgo": "Johnny Blaze",
+    "Time": "Independente"
+  },
+  {
+    "Id": 30,
+    "Nome": "Captain Marvel",
+    "AlterEgo": "Carol Danvers",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 31,
+    "Nome": "Ms. Marvel",
+    "AlterEgo": "Kamala Khan",
+    "Time": "Jovens Vingadores"
+  },
+  {
+    "Id": 32,
+    "Nome": "She-Hulk",
+    "AlterEgo": "Jennifer Walters",
+    "Time": "Vingadores"
+  },
+  {
+    "Id": 33,
+    "Nome": "Moon Knight",
+    "AlterEgo": "Marc Spector",
+    "Time": "Independente"
+  },
+  {
+    "Id": 34,
+    "Nome": "Nova",
+    "AlterEgo": "Richard Rider",
+    "Time": "Nova Corps"
+  },
+  {
+    "Id": 35,
+    "Nome": "Star-Lord",
+    "AlterEgo": "Peter Quill",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 36,
+    "Nome": "Gamora",
+    "AlterEgo": "Gamora Zen Whoberi",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 37,
+    "Nome": "Drax",
+    "AlterEgo": "Drax o Destruidor",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 38,
+    "Nome": "Rocket Raccoon",
+    "AlterEgo": "Rocket",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 39,
+    "Nome": "Groot",
+    "AlterEgo": "Groot",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 40,
+    "Nome": "Adam Warlock",
+    "AlterEgo": "Adam Warlock",
+    "Time": "Guardiões da Galáxia"
+  },
+  {
+    "Id": 41,
+    "Nome": "Magneto",
+    "AlterEgo": "Erik Lehnsherr",
+    "Time": "Irmandade dos Mutantes"
+  },
+  {
+    "Id": 42,
+    "Nome": "Loki",
+    "AlterEgo": "Loki Laufeyson",
+    "Time": "Independente"
+  },
+  {
+    "Id": 43,
+    "Nome": "Venom",
+    "AlterEgo": "Eddie Brock",
+    "Time": "Independente"
+  },
+  {
+    "Id": 44,
+    "Nome": "Green Goblin",
+    "AlterEgo": "Norman Osborn",
+    "Time": "Independente"
+  },
+  {
+    "Id": 45,
+    "Nome": "Red Skull",
+    "AlterEgo": "Johann Schmidt",
+    "Time": "Hidra"
+  },
+  {
+    "Id": 46,
+    "Nome": "Ultron",
+    "AlterEgo": "Ultron",
+    "Time": "Independente"
+  },
+  {
+    "Id": 47,
+    "Nome": "Thanos",
+    "AlterEgo": "Thanos",
+    "Time": "Independente"
+  },
+  {
+    "Id": 48,
+    "Nome": "Galactus",
+    "AlterEgo": "Galan",
+    "Time": "Independente"
+  },
+  {
+    "Id": 49,
+    "Nome": "Kang",
+    "AlterEgo": "Nathaniel Richards",
+    "Time": "Independente"
+  },
+  {
+    "Id": 50,
+    "Nome": "Doctor Doom",
+    "AlterEgo": "Victor Von Doom",
+    "Time": "Independente"
+  }
+]
