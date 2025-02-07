@@ -9,7 +9,8 @@
       "IO_Read_Write_Json/1.0.0": {
         "dependencies": {
           "IO_Read_Write_Json.Models": "1.0.0",
-          "IO_Read_Write_Json.Services": "1.0.0"
+          "IO_Read_Write_Json.Services": "1.0.0",
+          "Exportar": "1.0.0.0"
         },
         "runtime": {
           "IO_Read_Write_Json.dll": {}
@@ -42,6 +43,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Exportar/1.0.0.0": {
+        "runtime": {
+          "Exportar.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -65,6 +74,11 @@
     },
     "IO_Read_Write_Json.Services/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exportar/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

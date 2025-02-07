@@ -5,6 +5,7 @@ C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.AssemblyInfoInputs.cache
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.AssemblyInfo.cs
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.sourcelink.json
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.dll
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\refint\IO_Read_Write_Json.Models.dll
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagensMarvel\obj\Debug\net8.0\IO_Read_Write_Json.Models.pdb

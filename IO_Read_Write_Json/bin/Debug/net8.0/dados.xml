@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonagemMarvel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonagemMarvel>
+    <Id>1</Id>
+    <Nome>Spider-Man</Nome>
+    <AlterEgo>Peter Parker</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>2</Id>
+    <Nome>Iron Man</Nome>
+    <AlterEgo>Tony Stark</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>3</Id>
+    <Nome>Captain America</Nome>
+    <AlterEgo>Steve Rogers</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>4</Id>
+    <Nome>Thor</Nome>
+    <AlterEgo>Thor Odinson</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>5</Id>
+    <Nome>Hulk</Nome>
+    <AlterEgo>Bruce Banner</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>6</Id>
+    <Nome>Black Widow</Nome>
+    <AlterEgo>Natasha Romanoff</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>7</Id>
+    <Nome>Hawkeye</Nome>
+    <AlterEgo>Clint Barton</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>8</Id>
+    <Nome>Doctor Strange</Nome>
+    <AlterEgo>Stephen Strange</AlterEgo>
+    <Time>Defensores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>9</Id>
+    <Nome>Black Panther</Nome>
+    <AlterEgo>T’Challa</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>10</Id>
+    <Nome>Scarlet Witch</Nome>
+    <AlterEgo>Wanda Maximoff</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>11</Id>
+    <Nome>Vision</Nome>
+    <AlterEgo>Visão</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>12</Id>
+    <Nome>Ant-Man</Nome>
+    <AlterEgo>Scott Lang</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>13</Id>
+    <Nome>Wasp</Nome>
+    <AlterEgo>Hope Van Dyne</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>14</Id>
+    <Nome>Wolverine</Nome>
+    <AlterEgo>Logan</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>15</Id>
+    <Nome>Cyclops</Nome>
+    <AlterEgo>Scott Summers</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>16</Id>
+    <Nome>Storm</Nome>
+    <AlterEgo>Ororo Munroe</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>17</Id>
+    <Nome>Jean Grey</Nome>
+    <AlterEgo>Jean Grey</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>18</Id>
+    <Nome>Beast</Nome>
+    <AlterEgo>Hank McCoy</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>19</Id>
+    <Nome>Rogue</Nome>
+    <AlterEgo>Anna Marie</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>20</Id>
+    <Nome>Gambit</Nome>
+    <AlterEgo>Remy LeBeau</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>21</Id>
+    <Nome>Nightcrawler</Nome>
+    <AlterEgo>Kurt Wagner</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>22</Id>
+    <Nome>Colossus</Nome>
+    <AlterEgo>Piotr Rasputin</AlterEgo>
+    <Time>X-Men</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>23</Id>
+    <Nome>Deadpool</Nome>
+    <AlterEgo>Wade Wilson</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>24</Id>
+    <Nome>Daredevil</Nome>
+    <AlterEgo>Matt Murdock</AlterEgo>
+    <Time>Defensores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>25</Id>
+    <Nome>Luke Cage</Nome>
+    <AlterEgo>Carl Lucas</AlterEgo>
+    <Time>Defensores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>26</Id>
+    <Nome>Iron Fist</Nome>
+    <AlterEgo>Danny Rand</AlterEgo>
+    <Time>Defensores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>27</Id>
+    <Nome>The Punisher</Nome>
+    <AlterEgo>Frank Castle</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>28</Id>
+    <Nome>Silver Surfer</Nome>
+    <AlterEgo>Norrin Radd</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>29</Id>
+    <Nome>Ghost Rider</Nome>
+    <AlterEgo>Johnny Blaze</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>30</Id>
+    <Nome>Captain Marvel</Nome>
+    <AlterEgo>Carol Danvers</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>31</Id>
+    <Nome>Ms. Marvel</Nome>
+    <AlterEgo>Kamala Khan</AlterEgo>
+    <Time>Jovens Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>32</Id>
+    <Nome>She-Hulk</Nome>
+    <AlterEgo>Jennifer Walters</AlterEgo>
+    <Time>Vingadores</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>33</Id>
+    <Nome>Moon Knight</Nome>
+    <AlterEgo>Marc Spector</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>34</Id>
+    <Nome>Nova</Nome>
+    <AlterEgo>Richard Rider</AlterEgo>
+    <Time>Nova Corps</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>35</Id>
+    <Nome>Star-Lord</Nome>
+    <AlterEgo>Peter Quill</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>36</Id>
+    <Nome>Gamora</Nome>
+    <AlterEgo>Gamora Zen Whoberi</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>37</Id>
+    <Nome>Drax</Nome>
+    <AlterEgo>Drax o Destruidor</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>38</Id>
+    <Nome>Rocket Raccoon</Nome>
+    <AlterEgo>Rocket</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>39</Id>
+    <Nome>Groot</Nome>
+    <AlterEgo>Groot</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>40</Id>
+    <Nome>Adam Warlock</Nome>
+    <AlterEgo>Adam Warlock</AlterEgo>
+    <Time>Guardiões da Galáxia</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>41</Id>
+    <Nome>Magneto</Nome>
+    <AlterEgo>Erik Lehnsherr</AlterEgo>
+    <Time>Irmandade dos Mutantes</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>42</Id>
+    <Nome>Loki</Nome>
+    <AlterEgo>Loki Laufeyson</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>43</Id>
+    <Nome>Venom</Nome>
+    <AlterEgo>Eddie Brock</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>44</Id>
+    <Nome>Green Goblin</Nome>
+    <AlterEgo>Norman Osborn</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>45</Id>
+    <Nome>Red Skull</Nome>
+    <AlterEgo>Johann Schmidt</AlterEgo>
+    <Time>Hidra</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>46</Id>
+    <Nome>Ultron</Nome>
+    <AlterEgo>Ultron</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>47</Id>
+    <Nome>Thanos</Nome>
+    <AlterEgo>Thanos</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>48</Id>
+    <Nome>Galactus</Nome>
+    <AlterEgo>Galan</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>49</Id>
+    <Nome>Kang</Nome>
+    <AlterEgo>Nathaniel Richards</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+  <PersonagemMarvel>
+    <Id>50</Id>
+    <Nome>Doctor Doom</Nome>
+    <AlterEgo>Victor Von Doom</AlterEgo>
+    <Time>Independente</Time>
+  </PersonagemMarvel>
+</ArrayOfPersonagemMarvel>

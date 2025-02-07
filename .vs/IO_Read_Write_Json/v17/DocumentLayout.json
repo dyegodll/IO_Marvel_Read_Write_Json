@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65EB6D26-1682-43A4-9CAA-3D81462A1061}|IO_Read_Write_Json\\IO_Read_Write_Json.csproj|c:\\users\\dyego.lima\\source\\repos\\io_read_write_json\\io_read_write_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65EB6D26-1682-43A4-9CAA-3D81462A1061}|IO_Read_Write_Json\\IO_Read_Write_Json.csproj|solutionrelative:io_read_write_json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F02F44-2727-4567-8E2F-63270A5C738D}|PersonagensMarvel\\IO_Read_Write_Json.Models.csproj|c:\\users\\dyego.lima\\source\\repos\\io_read_write_json\\personagensmarvel\\personagemmarvel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40F02F44-2727-4567-8E2F-63270A5C738D}|PersonagensMarvel\\IO_Read_Write_Json.Models.csproj|solutionrelative:personagensmarvel\\personagemmarvel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}|PersonagemServices\\IO_Read_Write_Json.Services.csproj|c:\\users\\dyego.lima\\source\\repos\\io_read_write_json\\personagemservices\\personagemmarvelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D5F1DA-7263-48A1-AF8A-9CAF5FABB3C9}|PersonagemServices\\IO_Read_Write_Json.Services.csproj|solutionrelative:personagemservices\\personagemmarvelservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 63,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonagemMarvel.cs",
-              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\PersonagensMarvel\\PersonagemMarvel.cs",
-              "RelativeDocumentMoniker": "PersonagensMarvel\\PersonagemMarvel.cs",
-              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\PersonagensMarvel\\PersonagemMarvel.cs",
-              "RelativeToolTip": "PersonagensMarvel\\PersonagemMarvel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T15:02:44.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonagemMarvelServices.cs",
-              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\PersonagemServices\\PersonagemMarvelServices.cs",
-              "RelativeDocumentMoniker": "PersonagemServices\\PersonagemMarvelServices.cs",
-              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\PersonagemServices\\PersonagemMarvelServices.cs",
-              "RelativeToolTip": "PersonagemServices\\PersonagemMarvelServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T14:01:05.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\IO_Read_Write_Json\\Program.cs",
               "RelativeDocumentMoniker": "IO_Read_Write_Json\\Program.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\IO_Read_Write_Json\\IO_Read_Write_Json\\Program.cs",
               "RelativeToolTip": "IO_Read_Write_Json\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T13:41:12.676Z",
+              "WhenOpened": "2025-02-07T15:20:51.867Z",
               "EditorCaption": ""
             }
           ]

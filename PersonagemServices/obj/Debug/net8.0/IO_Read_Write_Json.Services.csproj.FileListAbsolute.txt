@@ -8,6 +8,7 @@ C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.AssemblyInfoInputs.cache
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.AssemblyInfo.cs
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.sourcelink.json
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_.51FF87AB.Up2Date
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\IO_Read_Write_Json.Services.dll
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\PersonagemServices\obj\Debug\net8.0\refint\IO_Read_Write_Json.Services.dll

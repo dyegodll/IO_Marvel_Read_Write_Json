@@ -12,4 +12,10 @@
     <ProjectReference Include="..\PersonagensMarvel\IO_Read_Write_Json.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Exportar">
+      <HintPath>..\..\ExportarDadosSl\ExportarDados\bin\Debug\net8.0\Exportar.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
