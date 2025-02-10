@@ -2,7 +2,6 @@
 using PersonagemServices;
 using PersonagensMarvel;
 
-
 internal class Program
 {
     private static void Main(string[] args)
@@ -21,7 +20,6 @@ internal class Program
         string pathDoc3 = $"{path}{doc3}";
         PersonagemMarvelServices.EscreverArquivoJsonPersonagem(pathDoc3, lista);
 
-        var formatoArquivo = FormatoArquivos.Xml;
-        ExportarDados<PersonagemMarvel>.SalvarDados(path, formatoArquivo, lista);
+        ExportarDados<PersonagemMarvel>.SalvarDados(lista, path, FormatoArquivos.Xml);
     }
 }

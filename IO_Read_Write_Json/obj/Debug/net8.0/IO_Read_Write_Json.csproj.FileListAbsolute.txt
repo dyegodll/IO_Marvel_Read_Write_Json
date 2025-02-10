@@ -22,3 +22,4 @@ C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\IO_Read_Write_Json\obj\Debug
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\IO_Read_Write_Json\obj\Debug\net8.0\IO_Read_Write_Json.pdb
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\IO_Read_Write_Json\obj\Debug\net8.0\IO_Read_Write_Json.genruntimeconfig.cache
 C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\IO_Read_Write_Json\obj\Debug\net8.0\ref\IO_Read_Write_Json.dll
+C:\Users\dyego.lima\source\repos\IO_Read_Write_Json\IO_Read_Write_Json\bin\Debug\net8.0\Exportar.xml

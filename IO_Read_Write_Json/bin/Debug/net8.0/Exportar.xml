@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Exportar</name>
+    </assembly>
+    <members>
+        <member name="T:ExportarDados.ExportarDados`1">
+            <summary>
+            Classe genérica que exporta os dados para um arquivo json ou csv.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:ExportarDados.ExportarDados`1.SalvarDados(System.Collections.Generic.List{`0},System.String,ExportarDados.FormatoArquivos)">
+            <summary>
+            Recebe uma lista genérica de objetos, uma string com o caminho do arquivo (sem o nome do arquivo) e o formato do arquivo do tipo Enum da classe FormatoArquivos Xml=1 ou Json=2
+            </summary>
+            <param name="dados">List do tipo da classe</param>
+            <param name="caminho">Caminho da pasta onde o arquivo será salvo. Obs: Não colocar nome no arquivo pois será salvo automaticamente como dados.xml ou dados.json</param>
+            <param name="formato">Enum da classe FormatoArquivos que pode ser Xml=1 ou Json=2</param>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="M:ExportarDados.ExportarDados`1.ExportData(System.Collections.Generic.List{`0},System.String,ExportarDados.FormatoArquivos)">
+            <summary>
+            Faz toda a lógica da exportação dos dados para tipo XML ou JSON
+            </summary>
+            <param name="dados"></param>
+            <param name="caminho"></param>
+            <param name="formato"></param>
+            <exception cref="T:System.Exception"></exception>
+        </member>
+        <member name="T:ExportarDados.FormatoArquivos">
+            <summary>
+            Enum do tipo de formato do arquivo Xml=1 ou Json=2
+            </summary>
+        </member>
+    </members>
+</doc>
